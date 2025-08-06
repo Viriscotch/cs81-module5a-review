@@ -1,0 +1,1 @@
+I learned how higher-order functions like map(), filter(), and reduce() can make code very concise and expressive. It took some time to follow how the reduce() function accumulated values, especially the syntax of the arrow function.
